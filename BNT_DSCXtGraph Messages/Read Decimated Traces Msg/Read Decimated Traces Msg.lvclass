@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="17008000">
+	<Property Name="Method" Type="Str">BNT_DSCXtGraph.lvlib:BNT_DSCXtGraph.lvclass:Read Decimated Traces.vi</Property>
 	<Property Name="NI.Lib.ContainingLib" Type="Str">BNT_DSCXtGraph.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../BNT_DSCXtGraph.lvlib</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
