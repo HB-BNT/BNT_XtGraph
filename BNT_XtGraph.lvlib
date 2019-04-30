@@ -43,5 +43,11 @@ Dr. Holger Brand, Asternweg 12a, 64291 Darmstadt, Germany</Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="Messages" Type="Folder">
+		<Item Name="Add Data with TS Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Data with TS Msg/Add Data with TS Msg.lvclass"/>
+		<Item Name="Add Data without TS Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Data without TS Msg/Add Data without TS Msg.lvclass"/>
+		<Item Name="Add Timestamped Data Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Timestamped Data Msg/Add Timestamped Data Msg.lvclass"/>
+	</Item>
+	<Item Name="BNT_XtGraph.ini" Type="Document" URL="../BNT_XtGraph.ini"/>
 	<Item Name="BNT_XtGraph.lvclass" Type="LVClass" URL="../BNT_XtGraph/BNT_XtGraph.lvclass"/>
 </Library>
