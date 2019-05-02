@@ -47,6 +47,9 @@ Dr. Holger Brand, Asternweg 12a, 64291 Darmstadt, Germany</Property>
 		<Item Name="Add Data with TS Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Data with TS Msg/Add Data with TS Msg.lvclass"/>
 		<Item Name="Add Data without TS Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Data without TS Msg/Add Data without TS Msg.lvclass"/>
 		<Item Name="Add Timestamped Data Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Timestamped Data Msg/Add Timestamped Data Msg.lvclass"/>
+		<Item Name="Add Value with TS Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Value with TS Msg/Add Value with TS Msg.lvclass"/>
+		<Item Name="Add Value without TS Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Add Value without TS Msg/Add Value without TS Msg.lvclass"/>
+		<Item Name="Clear History Msg.lvclass" Type="LVClass" URL="../BNT_XtGraph Messages/Clear History Msg/Clear History Msg.lvclass"/>
 	</Item>
 	<Item Name="BNT_XtGraph.ini" Type="Document" URL="../BNT_XtGraph.ini"/>
 	<Item Name="BNT_XtGraph.lvclass" Type="LVClass" URL="../BNT_XtGraph/BNT_XtGraph.lvclass"/>
