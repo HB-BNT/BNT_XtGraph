@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="18008000">
 	<Property Name="DialogStatus" Type="Str">AsynchDial</Property>
+	<Property Name="Method" Type="Str">BNT_XtGraph.lvlib:BNT_XtGraph.lvclass:History Length.vi</Property>
 	<Property Name="NI.Lib.ContainingLib" Type="Str">BNT_XtGraph.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../BNT_XtGraph.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+5!!!*Q(C=\:1`&lt;F."%)&gt;`C2"#&gt;/9%S(2W/1&gt;QYT\6O])=A-:SGLDU&amp;;;Q1#+2E*U&lt;_!J4)"&gt;U&lt;DC!3SLER_&gt;^;Z*)!2=%C3+T(P`ZT?T-^X&lt;8+R6\*&lt;V1?]L?0\2X$YXYY/+CG5[HFQ&gt;&lt;X36MDP(J]-Z_X&amp;89&lt;'L]=LDYXNFCO,I@XRTDASZB-2D?FPDG;#6_02QUCY-VPYMXA][;'H^9`_9?X`YRPJP6[P&lt;WSX[``^L?00*]*^&lt;HF/G0^BR`DP^&gt;`04RGZU_J0`7J,.#CC=?O/.7HKZ.^%20^%20^%10^%!0^%!0^%"X&gt;%&gt;X&gt;%&gt;X&gt;%=X&gt;%-X&gt;%-X&gt;%-P!VXI1B=[KZ)U4RIF2:-#34)I3NY3HI1HY5FY_+G%*_&amp;*?"+?B)=5*4Q*4]+4]#1]4&amp;0#E`!E0!F0QE/J1J*FI-/4]&amp;"?!5`!%`!%0!%0,28Q"!""M["Q5!1-"=(A3]!4]!1]@&amp;8!%`!%0!&amp;0Q%.9!5`!%`!%0!%05]KK2+%Z$(2Y+#/(R_&amp;R?"Q?BY@3=HA=(I@(Y8&amp;Y;#?(R_&amp;R)*S'4H%1Z%RS%JQ@$I`$QY==(I@(Y8&amp;Y("Z#:9?]L-S"ZD$1Y4&amp;Y$"[$R_!R?#ABA]@A-8A-(I/(MD*Y$"[$R_!R?'AFA]@A-8A-%+-J\755-S9;39:A]0!KJ]8+,E5BM4,K8\-\K+I(506AK2Y9V9/AOM'K'[?[);I,L&lt;K!KAOD_M#K$[)+K.J9N;"KIH;]&lt;`%VPM4H_!2P]$(?RXO(K5_=O.PNN.VON6[PN6QO.:`0.:F-V$3.RO/R_PW_?LX?L^PK,;/TM_/^.'-&gt;:S_PWNHZK0X]?N2?PRGVH\[.WI`HH8`98Z7=,F&gt;H4_8&gt;P@1`X)U[6XPPGG?.@A)-]JS]!!!!!!</Property>
