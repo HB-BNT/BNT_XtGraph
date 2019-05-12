@@ -2,7 +2,7 @@ Readme
 ======
 BNT\_XtGraph extends the CSPP\_Core package of the *CS++* project. 
 
-It contains a derived classes of CSPP\_GUIActor.
+It contains a derived classes of CSPP\_BaseActor. It displays Xt plots in its Actor Core.vi.
 
 Refer to https://git.gsi.de/EE-LV/CSPP/CSPP for *CS++* project overview, details and documentation.
 
